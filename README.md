@@ -1,8 +1,8 @@
 - 👋 Hi, I’m GURURAAJ A
-- 👀 I’m interested in  develop MERN stack to create simple project and providing srouce code 
+- 👀 I’m interested in developing a MERN stack to create simple project and providing srouce code 
 - 🌱 I’m currently learning for dynamic development in IT industry 
-- 💞️ I’m looking to collaborate for expand my projects.
-- 📫 Reach me through E-mail(gururaaj032@gmail.com) or instagram(_guru_arjun_) 
+- 💞️ I’m looking to collaborate for expand my projects and my learnings
+- 📫 Connect me through E-mail(gururaaj032@gmail.com) or instagram(_guru_arjun_) 
   
 
 <!---
